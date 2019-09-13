@@ -11,15 +11,12 @@
 .navigation1 { grid-area:navigation; 
 	background-color: blue;	
 	height: 50px;	
-
-
 }
 .menu1 { 
 	grid-area:menu;
 	background-color: green;
 	height: 50px;	
 }
-
 .content1{ 
 	grid-area:contentss;
 	background-color:brown;
@@ -35,7 +32,6 @@
 	background-color:yellow;
 	height:50px;	
 }
-
 .Footer1{ 
 	grid-area:Footer;
 	background-color: orange;
